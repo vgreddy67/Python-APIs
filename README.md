@@ -7,8 +7,8 @@ A print log of each city is created as it's being processed with the city number
 
 A series of scatter plots are built to showcase the following relationships:
 
-Temperature (F) vs. Latitude
 
+![Temperature (F) vs. Latitude](Instructions/Images/LatvsTemp.png)
 Humidity (%) vs. Latitude
 Cloudiness (%) vs. Latitude
 Wind Speed (mph) vs. Latitude
