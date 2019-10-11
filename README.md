@@ -9,6 +9,6 @@ A series of scatter plots are built to showcase the following relationships:
 
 
 ![Temperature (F) vs. Latitude](Instructions/Images/LatvsTemp.png)
-Humidity (%) vs. Latitude
-Cloudiness (%) vs. Latitude
-Wind Speed (mph) vs. Latitude
+![Humidity (%) vs. Latitude](Instructions/Images/LatvsHumidity.png)
+![Cloudiness (%) vs. Latitude](Instructions/Images/LatvsCloudiness.png)
+![Wind Speed (mph) vs. Latitude](Instructions/Images/LatvsWindSpeed.png)
